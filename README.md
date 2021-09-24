@@ -10,7 +10,7 @@ The development world has evolved dramatically and we as developers must too.
 
 mpcleverdon@gmail.com
 
-<a href="https:bink.tools" target="_top">https://bink.tools</a>
+<a href="https:bink.tools" target="_blank">https://bink.tools</a>
 
 
 <!---
