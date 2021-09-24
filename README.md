@@ -1,4 +1,4 @@
-Hi I am Mark Paul Cleverdon
+Hi I am Mark Cleverdon
 
 I have developed web applications for companies for many years and the technology I have used has evolved from QuickBasic through Foxpro, LAMP, Javascript JQuery and most recently Angular/Typescript/Ionic PWA's.
 
