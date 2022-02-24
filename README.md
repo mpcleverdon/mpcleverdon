@@ -14,9 +14,9 @@ mpcleverdon@gmail.com
 
 # Projects on the boil
 
-## clientarea2022
+## Client Area
 
-Client area is a PWA for *Holiday Property Management* companies to help the clients to have all of their booking, Arrival, Passport, accommodation, location information in one place. The special characteristics of the self catering holiday homes make it difficult to centralise all of the clients holiday information and provide adequate real time up to date information. This app is designed to improve the client experience and consolidate their relationship with the management company.
+Client area is a PWA for *Holiday Property Management* companies to help the clients to have all of their booking, Arrival, Passport, accommodation, location information in one place. The special characteristics of self catering holiday homes make it difficult to centralise all of the clients holiday information and provide adequate real time up to date information. This app is designed to improve the client experience and consolidate their relationship with the management company.
 
 ### Included features
 1) Welcome letter, FAQ's and Terms and conditions.
