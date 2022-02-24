@@ -33,6 +33,16 @@ Client area is a PWA for **Holiday Property Management** companies to help the c
 
 1) Availability search for future bookings
 2) Internal comunication tool (like whatsapp) with the management teams departments - Maintenance, Reservations, Administration etc.
+
+## ExControl
+
+Excontrol is a server based **PHP** application for the administration of tourist guide invoicing.
+
+All over the world the are tourist destinations where you can take a tour of many hostorical/cultural/traditional attractions. The local guides are very often organized by companies that handle the administration and liase with tour operators to supply the adequately experienced guide with the language/s needed for the tour.
+
+This application brings together and greatly simplifies all of the necessary administration work. Invoicing the tour operators for each excursion and also paying out each of the guides in their portfolio.
+
+Make life simple and use the right tools.
 <!---
 mpcleverdon/mpcleverdon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
